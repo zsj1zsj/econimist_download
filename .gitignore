@@ -1,0 +1,15 @@
+__pycache__/
+.env
+.env.*
+weread_exports/
+weread-demo.md
+weread-demo.json
+weread_config.json
+highlighted_articles/
+template_preview/
+verification_output/
+epubs/
+download_preview/
+.economist-*.part
+TheEconomist.2026.10.10.epub
+manual_test/
